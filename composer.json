@@ -4,6 +4,9 @@
     "type": "library",
     "require": {
         "php": ">=7.0",
+        "ext-curl": "*",
+        "ext-json": "*",
+        "ext-openssl": "*",
         "illuminate/support": ">=5.8"
     },
     "license": "MIT",
